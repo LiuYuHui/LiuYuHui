@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=LiuYuHui&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&line_height=28&disable_animations=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiuYuHui&hide=html,css,qml,qmake&layout=compact&langs_count=10&theme=github_dark&card_width=250)
+<p align="center">
+	<a href="https://github.com/LiuYuHui"><img src="https://raw.githubusercontent.com/LiuYuHui/LiuYuHui/master/github-metrics.svg" alt="metrics"></a>
+</p>
