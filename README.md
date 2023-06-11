@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+- 🔭 I’m currently interested on writing high performance code.
+- 🌱 I’m currently learning tvm and related work.
+<!-- <p align="center">
 	<a href="https://github.com/LiuYuHui"><img src="https://raw.githubusercontent.com/LiuYuHui/LiuYuHui/master/github-metrics.svg" alt="metrics"></a>
-</p>
+</p> -->
